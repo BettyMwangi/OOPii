@@ -1,14 +1,8 @@
-#include<iostream>
+// A Hello World program 
+#include <iostream>
 
-using namespace std;
+int main() {
+    std ::cout << "Hello, world!\n";
 
-int main()
-
-{
-   const char*str="Hello World";
-
-    cout << str <<"\n";
-    
     return 0;
-
 }
